@@ -17,8 +17,8 @@ Open `index.html` in your web browser to start using the task board. Add tasks, 
 
 ## Screenshot
 
-![Task Board Screenshot]()
+![Task Board Screenshot](assets/images/Taskboard_index.html.png)
 
 ## Live Demo
 
-Check out the live demo on GitHub Pages: [Task Board Live Demo]()
+Check out the live demo on GitHub Pages: [Task Board Live Demo](https://enduringtimes.github.io/Taskboard/)
